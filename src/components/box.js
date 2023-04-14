@@ -76,7 +76,7 @@ const Box = ({ name }) => {
             setResult(math(args.num1));
           }}
           className="enabled:bg-orange-500 disabled:bg-zinc-500 rounded-lg px-4 py-2 place-self-center"
-          disabled={!(args.num1 || args.num1 >= 0)}
+          disabled={!(args.num1 || args.num1 > 0)}
         >
           <p>Calculate</p>
         </button>
