@@ -6,7 +6,6 @@
 # Mathematics Testing
 
 ![screen-gif](/assets/mathematics-testing.gif)
-Testing gif coming soon!
 
 ## About the Project
 
@@ -30,6 +29,11 @@ This project features a Mocha testing suite for basic arithmetic. The [GitHub Pa
 2. Download the most recent release and unzip the package.
 3. Locate the mocha-testing folder and run `npm test`.
 4. In the console, the test report should indicate that all tests have passed.
+
+## Mocha Tests
+This project features a Mocha test suite that checks whether the math functions are returning successful responses. All tests check for mathematical correctness and/or type errors. 
+![screen-gif](/assets/mathematics-testing-code.gif)
+![screen-gif](/assets/mathematics-testing-results.gif)
 
 ## License
 
