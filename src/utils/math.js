@@ -13,21 +13,21 @@ export default class Math {
 
   divide = (num1, num2) => {
     if (num2 === 0) {
-      return 'Divisor must not equal zero.'
+      return 'Error.'
     }
     return num1 / num2;
   }
 
   modulo = (num1, num2) => {
     if (num2 === 0) {
-      return 'Divisor must not equal zero.'
+      return 'Error.'
     }
     return num1 % num2;
   }
 
   factorial = (num) => {
     if (num < 0) {
-      return 'Number must be greater than or equal to zero.';
+      return 'Error.';
     } else if (num === 0) {
       return 1;
     } else {
