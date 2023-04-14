@@ -26,7 +26,7 @@ This project features a Mocha testing suite for basic arithmetic. The [GitHub Pa
 ## Getting Started
 
 1. Visit the web page [here](https://awoelf.github.io/mocha-testing/) to see the dashboard.
-2. Download the most recent release and unzip the package.
+2. Download the most recent release and unzip the files.
 3. Locate the mocha-testing folder and run `npm test`.
 4. In the console, the test report should indicate that all tests have passed.
 
