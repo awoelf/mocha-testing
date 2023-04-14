@@ -2,7 +2,7 @@ import Math from '../utils/math.js';
 import assert from 'assert';
 
 describe('Math', function () {
-  const math = new Math;
+  const math = new Math();
   // Addition Function
   describe('Addition', function () {
     it('Should add the first argument to the second argument and return a number.', function () {
@@ -18,5 +18,15 @@ describe('Math', function () {
       let result = math.add(num1, num2);
       assert.rejects(result);
     });
+    describe('Subtraction', function () {});
+    
+    describe('Multiplication', function () {});
+
+    describe('Division', function () {});
+
+    describe('Modulo', function () {});
+
+    describe('Factorial', function () {});
+
   })
 })

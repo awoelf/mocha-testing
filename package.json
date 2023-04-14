@@ -1,5 +1,6 @@
 {
   "name": "mocha-testing",
+  "homepage": "https://awoelf.github.io/mocha-testing/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

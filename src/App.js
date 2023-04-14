@@ -29,6 +29,7 @@ function App() {
               className="mx-1"
               href="https://www.linkedin.com/in/alexis-w-dev/"
               target="_blank"
+              rel="noreferrer"
             >
               <i class="bi bi-linkedin"></i>
             </a>
@@ -36,6 +37,7 @@ function App() {
               className="mx-1"
               href="https://github.com/awoelf"
               target="_blank"
+              rel="noreferrer"
             >
               <i class="bi bi-github"></i>
             </a>
